@@ -88,6 +88,34 @@
 
 
    /*=================CONTACT FORM====================*/
+   .footer .row {
+    background-color: rgba(57, 63, 70, .85);
+    padding: 1rem 2rem 3rem;
+    color: white;
+}
+
+.footer img {
+    height: 2rem;
+    margin: 1.5rem 0;
+}
+
+.footer a {
+    color:white;
+}
+
+.footer svg.svg-inline--fa {
+    margin: 1.2rem .5rem 0 0;
+}
+
+.footer svg.svg-inline--fa:hover {
+    color: #00B3FF!important;
+}
+
+.footer h3 {
+    text-transform: uppercase;
+    margin: 1.5rem 0;
+}
+
 
 .form-group {
     margin-bottom: 1.3rem;
